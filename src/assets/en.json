@@ -1,0 +1,40 @@
+{
+    "translation": {
+        "Status":"Status",
+        "Time_Since_Ordering":"Time Since Ordering",
+        "Date":"Date",
+        "Number_Of_Calling" :"Number Of Calling",
+        "Service_Type": "Service Type",
+        "Table_Number":"Table Number",
+        "Enter_Your_Email": "Enter Your Email",
+        "Password":"Password",
+        "Done":"Done",
+        "Cheque" : "Cheque",
+        "Waiter" :"Waiter",
+        "Services": "Services",
+        "Valet": "Valet",
+        "Table_Calls" :"Table Calls"
+        , "Table":"Table",
+        "Calls": "Calls",
+        "History" : "History",
+        "Login" :"Login",
+        "All" :"All",
+        "Bored":"Bored",
+        "Waiting": "Waiting",
+        "Calling": "Calling",
+        "paragraph1": "An integrated system for the comprehensive management of sales stores and their customers' requirements through a set of applications and information management technology",
+        "paragraph2":"The system manages the selling shops, which requires increasing profits, savings, and reducing losses",
+        "paragraph3" : "It focuses on sending administrative excellence and the success of the commercial operation, whether online or offline to the Internet shop",
+        "about":"About tijary",
+        "send": "Submit Your Inquiry",
+        "Password_Is_Required" : "Password Is Required",
+        "Paas" :"Paasword Must Strat with  Litter and Contain Numbers or #$%^&*@)(",
+        "Invalid_username_address" :"Invalid username ",
+        "Logout": "Log out" , 
+        "Login" : "Log in",
+        "Cancel":"Cancel",
+        "wanttologout?" :"want to log out?"
+  }
+
+    }
+
